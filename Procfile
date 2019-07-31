@@ -1,0 +1,1 @@
+web: gunicorn parqueo.wsgi
